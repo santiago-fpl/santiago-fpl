@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ4amtjcTkwNWt1N2Jpa3l3Ymp2N3R4ZXRrYm1tbWYyeHQ0OWRqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAyWp0RxiRrtYVUmR7/giphy.gif" width="100"/>
+</div>
 <!--
 **santiago-fpl/santiago-fpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
