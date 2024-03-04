@@ -1,4 +1,4 @@
-<img src="https://github.com/santiago-fpl/santiago-fpl/blob/main/Images/Spider-Noir.gif"></img>
+<img src="https://github.com/santiago-fpl/santiago-fpl/blob/main/Images/Santiago%20Fern%C3%A1ndez-Pedrera.gif?raw=true"></img>
 
 
 - 🌱 I’m currently studying **The higher-level cycle of development in web applications**
