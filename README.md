@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **The higher-level cycle of development in web applications**
 
-- 📫 How to reach me **santiago.fpl@hotmail.com**
+- 📫 How to reach me: **santiago.fpl@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
