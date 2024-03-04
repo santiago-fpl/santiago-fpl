@@ -1,8 +1,8 @@
 <h1 align="center">
   <p>Hi 👋, I'm Santiago FPL</p>
   <p>A developing developer from Spain</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozd2h0ZzN0dTd4OXM4d29yODlzNXdxYjJieWwxZHpjZWY5ZmgyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6RCG0sReNHbR7HNfM/giphy.gif"></img>
 </h1>
-<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozd2h0ZzN0dTd4OXM4d29yODlzNXdxYjJieWwxZHpjZWY5ZmgyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6RCG0sReNHbR7HNfM/giphy.gif"></img></h3>
 
 
 - 🌱 I’m currently studying **The higher-level cycle of development in web applications**
